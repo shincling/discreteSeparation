@@ -26,7 +26,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Test wav1: https://github.com/shincling/discreteSparation/blob/gh-pages/wavs/clip0009_2_0.wav
 
 <audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSparation/blob/gh-pages/wavs/clip0009_2_0.wav">
+<source id="wav" src="https://github.com/shincling/discreteSparation/blob/gh-pages/wavs/clip0009_2_0.wav?raw=true">
 </audio>
 
 
