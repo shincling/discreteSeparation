@@ -14,12 +14,11 @@ Noisy Wav:
 <audio id="audio" controls="" preload="none">
 <source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/noisy/p232_072.wav?raw=true"></audio>
 
-Conv-TasNet:                MTL-mimic-voicebank:
+Conv-TasNet:              MTL-mimic-voicebank:              Metricgan-voicebank:
 <audio id="audio" controls="" preload="none">
 <source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/ConvTasNet/p232_072.wav?raw=true"></audio>
 <audio id="audio" controls="" preload="none">
 <source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/mtl/p232_072.wav?raw=true"></audio>
-Metricgan-voicebank:
 <audio id="audio" controls="" preload="none">
 <source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/metricgan/p232_072.wav?raw=true"></audio>
 Our discrete enhancement (with vctk vocoder /  ljspeech vocoder):
