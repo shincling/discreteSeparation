@@ -7,10 +7,11 @@ Neural network based models have significantly improved the performance of speec
 ### Test samples
 #### Female + Female
 
-(1) Sample1: 
+* (1) Sample1: 
+
 Mixture Wav:
 <audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/Mix/053_444_053a050p_1.912_444o030g_-1.912_pre1.wav?raw=true">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/Mix/053_444_053a050p_1.912_444o030g_-1.912.wav?raw=true">
 </audio>
 
 Conv-TasNet:
@@ -32,6 +33,59 @@ Our discrete Separation:
 <source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/053_444_053a050p_1.912_444o030g_-1.912_pre1.wav?raw=true"></audio>
 <audio id="audio" controls="" preload="none">
 <source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/053_444_053a050p_1.912_444o030g_-1.912_pre2.wav?raw=true"></audio>
+
+* (2) Sample2: 
+Mixture Wav:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/Mix/420_053_420a0104_0.4599_053o020i_-0.4599.wav?raw=true">
+</audio>
+
+Conv-TasNet:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/ConvTasNet/420_053_420a0104_0.4599_053o020i_-0.4599_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/ConvTasNet/420_053_420a0104_0.4599_053o020i_-0.4599_pre2.wav?raw=true"></audio>
+
+Conv-DPRNN:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/DPRNN/420_053_420a0104_0.4599_053o020i_-0.4599_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/DPRNN/420_053_420a0104_0.4599_053o020i_-0.4599_pre2.wav?raw=true"></audio>
+
+Our discrete Separation:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/420_053_420a0104_0.4599_053o020i_-0.4599_pre1.wav?raw=true"></audio>
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/420_053_420a0104_0.4599_053o020i_-0.4599_pre2.wav?raw=true"></audio>
+
+* (3) Sample3: 
+Mixture Wav:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/Mix/420_444_420a0114_0.39756_444o0314_-0.39756.wav?raw=true">
+</audio>
+
+Conv-TasNet:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/ConvTasNet/420_444_420a0114_0.39756_444o0314_-0.39756_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/ConvTasNet/420_444_420a0114_0.39756_444o0314_-0.39756_pre2.wav?raw=true"></audio>
+
+Conv-DPRNN:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/DPRNN/420_444_420a0114_0.39756_444o0314_-0.39756_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/DPRNN/420_444_420a0114_0.39756_444o0314_-0.39756_pre2.wav?raw=true"></audio>
+
+Our discrete Separation:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/420_444_420a0114_0.39756_444o0314_-0.39756_pre1.wav?raw=true"></audio>
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/420_444_420a0114_0.39756_444o0314_-0.39756_pre2.wav?raw=true"></audio>
+
 
 
 ### Notice
