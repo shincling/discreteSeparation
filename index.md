@@ -5,6 +5,9 @@ Neural network based models have significantly improved the performance of speec
 
 
 ### Test samples
+The sound files blow are some raw mixture wavs and the separated speech from different methods.
+We show the different gender combination results as: Female+Female / Female+Male/ Male+Male.
+
 #### Female + Female
 
 **(1) Sample1:** 
