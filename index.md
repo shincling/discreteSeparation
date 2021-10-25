@@ -8,6 +8,8 @@ Neural network based models have significantly improved the performance of speec
 The sound files blow are some raw noisy wavs and the enhanced speech from different methods.
 All the samples are driven from the test set of VCTK-noisy.
 
+Notice: here we use the vctk vocoder or the ljspeech vocoder. The former one corresponds to the training corpus we used (vctk-noisy) while the later one is an external single-speaker corpus, which could be used to show the speaker-transfer characteristic of our method.
+
 **(1) Sample1:** 
 
 Noisy Wav:
