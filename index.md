@@ -176,6 +176,92 @@ Our discrete Separation:
 <source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FM/22h_445_22ha010e_1.9643_445o030y_-1.9643_pre2.wav?raw=true"></audio>
 
 
+#### Male + Male
+
+**(1) Sample1:** 
+
+Mixture Wav:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/Mix/22g_22h_22go010j_2.1114_22ho010c_-2.1114.wav?raw=true">
+</audio>
+
+Conv-TasNet:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/ConvTasNet/22g_22h_22go010j_2.1114_22ho010c_-2.1114_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/ConvTasNet/22g_22h_22go010j_2.1114_22ho010c_-2.1114_pre2.wav?raw=true"></audio>
+
+Conv-DPRNN:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/DPRNN/22g_22h_22go010j_2.1114_22ho010c_-2.1114_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/DPRNN/22g_22h_22go010j_2.1114_22ho010c_-2.1114_pre2.wav?raw=true"></audio>
+
+Our discrete Separation:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/22g_22h_22go010j_2.1114_22ho010c_-2.1114_pre1.wav?raw=true"></audio>
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/22g_22h_22go010j_2.1114_22ho010c_-2.1114_pre2.wav?raw=true"></audio>
+
+
+**(2) Sample2:** 
+
+Mixture Wav:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/Mix/443_440_443o030y_1.7031_440o0308_-1.7031.wav?raw=true">
+</audio>
+
+Conv-TasNet:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/ConvTasNet/443_440_443o030y_1.7031_440o0308_-1.7031_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/ConvTasNet/443_440_443o030y_1.7031_440o0308_-1.7031_pre2.wav?raw=true"></audio>
+
+Conv-DPRNN:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/DPRNN/443_440_443o030y_1.7031_440o0308_-1.7031_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/DPRNN/443_440_443o030y_1.7031_440o0308_-1.7031_pre2.wav?raw=true"></audio>
+
+Our discrete Separation:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/443_440_443o030y_1.7031_440o0308_-1.7031_pre1.wav?raw=true"></audio>
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/443_440_443o030y_1.7031_440o0308_-1.7031_pre2.wav?raw=true"></audio>
+
+**(3) Sample3:** 
+
+Mixture Wav:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/Mix/443_22g_443c020w_1.0586_22go010u_-1.0586.wav?raw=true">
+</audio>
+
+Conv-TasNet:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/ConvTasNet/443_22g_443c020w_1.0586_22go010u_-1.0586_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/ConvTasNet/443_22g_443c020w_1.0586_22go010u_-1.0586_pre2.wav?raw=true"></audio>
+
+Conv-DPRNN:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/DPRNN/443_22g_443c020w_1.0586_22go010u_-1.0586_pre1.wav?raw=true"></audio>
+
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/DPRNN/443_22g_443c020w_1.0586_22go010u_-1.0586_pre2.wav?raw=true"></audio>
+
+Our discrete Separation:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/443_22g_443c020w_1.0586_22go010u_-1.0586_pre1.wav?raw=true"></audio>
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/MM/443_22g_443c020w_1.0586_22go010u_-1.0586_pre2.wav?raw=true"></audio>
+
+
+
 
 
 ### Notice
