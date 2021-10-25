@@ -5,11 +5,25 @@ Neural network based models have significantly improved the performance of speec
 
 
 ### Test samples
-Test wav1: https://github.com/shincling/discreteSparation/blob/gh-pages/wavs/clip0009_2_0.wav
+#### Female + Female
 
+(1) Sample1: 
+Mixture Wav:
 <audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSparation/blob/gh-pages/wavs/clip0009_2_0.wav?raw=true">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/Mix/053_444_053a050p_1.912_444o030g_-1.912_pre1.flac?raw=true">
 </audio>
+
+Conv-TasNet:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/ConvTasNet/053_444_053a050p_1.912_444o030g_-1.912_pre1.wav?raw=true"></audio>
+
+Conv-DPRNN:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/DPRNN/053_444_053a050p_1.912_444o030g_-1.912_pre1.wav?raw=true"></audio>
+
+Our discrete Separation:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs/FF/053_444_053a050p_1.912_444o030g_-1.912_pre1.wav?raw=true"></audio>
 
 ### Notice
 This page is still under building, will be released soon.
