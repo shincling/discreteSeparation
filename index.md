@@ -8,33 +8,6 @@ Neural network based models have significantly improved the performance of speec
 The sound files blow are some raw noisy wavs and the enhanced speech from different methods.
 All the samples are driven from the test set of VCTK-noisy.
 
-**(1) Sample1:** 
-
-Noisy Wav:
-<audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_enh/noisy/p232_072.wav?raw=true">
-</audio>
-
-Conv-TasNet:
-<audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_enh/ConvTasNet/p232_072.wav?raw=true">
-
-
-MTL-mimic-voicebank:
-<audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_enh/mtl/p232_072.wav?raw=true">
-
-Metricgan-voicebank:
-<audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_enh/metricgan/p232_072.wav?raw=true">
-
-Our discrete enhancement (with vctk vocoder):
-<audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_enh/p232_072.wav?raw=true">
-
-Our discrete enhancement (with ljspeech vocoder):
-<audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_enh/our_ljspeech_vocoder/p232_072.wav?raw=true">
 
 
 
