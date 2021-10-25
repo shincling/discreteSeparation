@@ -12,7 +12,7 @@ All the samples are driven from the test set of VCTK-noisy.
 
 Noisy Wav:
 <audio id="audio" controls="" preload="none">
-<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_enh/noisy/p232_072.wav?raw=true"></audio>
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/noisy/p232_072.wav?raw=true"></audio>
 
 Conv-TasNet:
 <audio id="audio" controls="" preload="none">
@@ -34,6 +34,84 @@ Our discrete enhancement (with ljspeech vocoder):
 <audio id="audio" controls="" preload="none">
 <source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/our_ljspeech_vocoder/p232_072.wav?raw=true"></audio>
 
+**(2) Sample2:** 
+
+Noisy Wav:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/noisy/p232_156.wav?raw=true"></audio>
+
+Conv-TasNet:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/ConvTasNet/p232_156.wav?raw=true"></audio>
+
+MTL-mimic-voicebank:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/mtl/p232_156.wav?raw=true"></audio>
+
+Metricgan-voicebank:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/metricgan/p232_156.wav?raw=true"></audio>
+
+Our discrete enhancement (with vctk vocoder):
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/p232_156.wav?raw=true"></audio>
+
+Our discrete enhancement (with ljspeech vocoder):
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/our_ljspeech_vocoder/p232_156.wav?raw=true"></audio>
+
+**(3) Sample3:** 
+
+Noisy Wav:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/noisy/p232_378.wav?raw=true"></audio>
+
+Conv-TasNet:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/ConvTasNet/p232_378.wav?raw=true"></audio>
+
+MTL-mimic-voicebank:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/mtl/p232_378.wav?raw=true"></audio>
+
+Metricgan-voicebank:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/metricgan/p232_378.wav?raw=true"></audio>
+
+Our discrete enhancement (with vctk vocoder):
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/p232_378.wav?raw=true"></audio>
+
+Our discrete enhancement (with ljspeech vocoder):
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/our_ljspeech_vocoder/p232_378.wav?raw=true"></audio>
+
+
+**(4) Sample4:** 
+
+Noisy Wav:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/noisy/p232_383.wav?raw=true"></audio>
+
+Conv-TasNet:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/ConvTasNet/p232_383.wav?raw=true"></audio>
+
+MTL-mimic-voicebank:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/mtl/p232_383.wav?raw=true"></audio>
+
+Metricgan-voicebank:
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/metricgan/p232_383.wav?raw=true"></audio>
+
+Our discrete enhancement (with vctk vocoder):
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/p232_383.wav?raw=true"></audio>
+
+Our discrete enhancement (with ljspeech vocoder):
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/shincling/discreteSeparation/blob/gh-pages/wavs_vctk/our_ljspeech_vocoder/p232_383.wav?raw=true"></audio>
 
 
 
